@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: confluent-kafka-dotnet
+  annotations:
+    github.com/project-slug: xpiyushdoorwar/confluent-kafka-dotnet
+spec:
+  type: other
+  lifecycle: unknown
+  owner: xpiyushdoorwar
